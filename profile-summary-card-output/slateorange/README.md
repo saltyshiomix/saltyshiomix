@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/saltyshiomix/saltyshiomix/master/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
