@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/saltyshiomix/saltyshiomix/master/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)
+```
+
+    
